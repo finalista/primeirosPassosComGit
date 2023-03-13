@@ -2,3 +2,5 @@
 1-Opcao 
 2-opcao
 3-Opcao
+
+Agora vou adicionar informacao para poder verificar no ficheiro staging
